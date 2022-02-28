@@ -1,0 +1,333 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sir Thomas Fairefax facing Oxford. And our horse skirmishing within musket-shot of the towne. The enemie forced into Oxford. Also 70 and odde prisoners taken, and sent to Abingdon. With the relation of the Kings marching out at the gate he passed. Also the names of the commissioners chosen to treat upon articles for the surrender of Newark, and the second summons from the Lords and Commons commissioners of both kingdomes with the army, and two severall answers thereunto. These being examined by the originall papers, are commanded to be printed, and are published according to order of Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93295</idno>
+            <idno type="STC">Wing S3892</idno>
+            <idno type="STC">Thomason E335_13</idno>
+            <idno type="STC">ESTC R200790</idno>
+            <idno type="EEBO-CITATION">99861441</idno>
+            <idno type="PROQUEST">99861441</idno>
+            <idno type="VID">159675</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93295)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159675)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 54:E335[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sir Thomas Fairefax facing Oxford. And our horse skirmishing within musket-shot of the towne. The enemie forced into Oxford. Also 70 and odde prisoners taken, and sent to Abingdon. With the relation of the Kings marching out at the gate he passed. Also the names of the commissioners chosen to treat upon articles for the surrender of Newark, and the second summons from the Lords and Commons commissioners of both kingdomes with the army, and two severall answers thereunto. These being examined by the originall papers, are commanded to be printed, and are published according to order of Parliament.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>7 [i.e 8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Elizabeth Purslow,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>May 4. 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Pages 4-8 are misnumbered 3, 5, 6, 6, 7 respectively.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+               <term>Oxford (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159675:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 29 -->
+            <p>Sir Thomas Fairefax FACING OXFORD.</p>
+            <p>And our Horſe skirmiſhing within Musket-ſhot of the Towne.</p>
+            <p>The Enemie forced into OXFORD.</p>
+            <p>Alſo 70 and odde priſoners taken, and ſent to <hi>Abingdon.</hi> With the relation of the Kings marching out at the gate he paſſed.</p>
+            <p>Alſo the names of the Commiſſioners choſen to treat upon Articles for the ſurrender of <hi>Newark,</hi> and the ſecond ſummons from the Lords and Commons Com<g ref="char:EOLhyphen"/>miſſioners of both Kingdomes with the Army, and two ſeverall Anſwers thereunto.</p>
+            <p>Theſe being examined by the originall Papers, are commanded to be printed, and are publiſhed according to Order of Parliament.</p>
+            <p>LONDON: Printed by <hi>Elizabeth Purſlow, May</hi> 4. 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="2" facs="tcp:159675:2"/>
+            <!-- PDF PAGE 30 -->
+            <head>The Copie of a Letter from Colonell <hi>Roſſiters</hi> Quarters at <hi>Balderton.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>EE have ſent in a ſecond Summons to <hi>New<g ref="char:EOLhyphen"/>arke,</hi> which hath produced a faire Anſwer from the Governour, which with other rea<g ref="char:EOLhyphen"/>ſons gives us thoughts of having <hi>Newarke</hi> in a ſhort time; I have ſent you (here in<g ref="char:EOLhyphen"/>cloſed) the Copies of the Summons and the Anſwer: This day the Commiſſioners of both Kingdomes, meete to conſider of the Anſwer which they have received to their Summons, and alſo what reply to draw up to ſend in to them againe, though they flew high in their former Anſwer, yet they are lower now in their thoughts, and I hope they will be eaſily perſwaded to ſurrender it upon good termes. It may be (and is very probable) that they will make their demands very high at the firſt, they being to offer termes: but however, they are in a moſt ſad and miſerable condition in the Towne, not onely by reaſon of the ſickneſſe, which ſtill increaſes, and is very ſore up<g ref="char:EOLhyphen"/>on them, but they want both Money, Cloathes, and Victuals, Ammunition, no great plenty, and are in di<g ref="char:EOLhyphen"/>ſtreſſe for (even almoſt) all manner of neceſſaries, and the Souldiers in the Towne having little pay, nor Victu<g ref="char:EOLhyphen"/>als, and yet hard duty, are every hower ready to mutiny, which ſome of them (for want, have begun already to practiſe, and ſome in the Towne have beene Plundred, what further happens ſhall be communicated by the next Poſt.</p>
+            <closer>
+               <dateline>From <hi>Balderton</hi> 
+                  <date>the 30. of <hi>Aprill,</hi> 1646<g ref="char:punc">▪</g>
+                  </date>
+               </dateline>
+               <signed>Your humble Servant, <hi>Y. S.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="summons">
+            <pb n="3" facs="tcp:159675:2"/>
+            <!-- PDF PAGE 30 -->
+            <head>The Copie of the Summons ſent into <hi>Newarke,</hi> by Order of the Commiſſioners of both Kingdomes.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>WEE hope you have conſidered that our Paper (as you terme it) contained a Summons from us, what wee received from you merits no reply, wee were in earneſt as to give an accompt to God, and many of our proceedings, and to ſhew that nothing from you can hinder our indeavouring, that you may ſee your ap<g ref="char:EOLhyphen"/>proaching ruine, and whilſt there is time avoyd it; wee once more demand of you, in the name of both Houſes of the Parliament of <hi>England,</hi> and for the uſe of the King and Parliament, that you forthwith deliver up the Town, and Gariſons of <hi>Newarke</hi> into their hands, and wee ſhall give you conditions for the ſurrender thereof, which you muſt not expect to be ſuch, as you might formerly have obtained: This is the laſt Summons wee ſhall ſend, you now accepting of what is offered, will declare you are ſen<g ref="char:EOLhyphen"/>ſible of the totall loſſe of your eſtates, the devaſtation of the Country round about you of the ruine of the Towne, and of the Blood which may elſe be ſpilt: wee ſhall expect your poſſitive Anſwer by three of the clock to morrow in the alternoone at <hi>Balderton.</hi>
+            </p>
+            <closer>
+               <dateline>Collingham, <date>27. of <hi>April.</hi> 1646.</date>
+               </dateline>
+               <signed>Signed in the name and by the Committee of both Kingdomes <hi>Mountague Lothian.</hi>
+               </signed>
+            </closer>
+            <trailer>For the Governour of the Towne and Gariſon of <hi>Newarke,</hi> the Gentlemen there, and the Major, Al<g ref="char:EOLhyphen"/>dermen, a and Burgeſſes of the Towne.</trailer>
+         </div>
+         <div type="letter">
+            <argument>
+               <p>To this Summons the Lord <hi>Belaſys</hi> ſent the ſame day this An<g ref="char:EOLhyphen"/>ſwer following, as his owne particular Anſwer, which he ſent Colonell <hi>Roſſiter.</hi>
+               </p>
+            </argument>
+            <pb n="3" facs="tcp:159675:3"/>
+            <!-- PDF PAGE 31 -->
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Have read a ſecond Summons from the Committee of both Kingdomes, but (by their owne directions) the buſineſſe con<g ref="char:EOLhyphen"/>cernes ſo many, as they cannot expect a ſodaine returne: however I deſire you would pleaſe to let thoſe Lords know, that on Wed<g ref="char:EOLhyphen"/>neſday I ſhall ſend my Anſwer, and remaine</p>
+            <closer>
+               <dateline>Newarke <date>27, of Aprill, 1646.</date>
+               </dateline>
+               <signed>Your humble Servant, <hi>I. Belaſys.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>The Anſwer of the Summons, ſent from the Lord Bellaſys, to the Commiſſioners of Lords and Com<g ref="char:EOLhyphen"/>mons of both Kingdomes, now before <hi>Newarke.</hi>
+            </head>
+            <opener>
+               <salute>My L<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ds,</salute>
+            </opener>
+            <p>THe conſideration of what is required in your Summons of Monday laſt, being of ſo high concernment to His Majeſtie, and to the particular intereſts of very many of His faithfull Sub<g ref="char:EOLhyphen"/>jects in this Garriſon; I conceive a ſhorter time then Monday next, will not be ſufficient to prepare Articles of ſo divers natures as are neceſſary to be treated on, at which time I will not faile to ſend ſuch to you, and upon your aſſent to them to ſurrender the town: In the mean time I ſend you hereunder written the names of ſuch Commiſſioners for the Nobility, Gentry, Souldiers, Cler<g ref="char:EOLhyphen"/>gy and Towneſmen, as I doe intruſt for the treating upon theſe Articles, with an equall number of yours, whoſe names I ſhall de<g ref="char:EOLhyphen"/>ſire by the next, and that you will appoint ſuch a place as you ſhall think moſt convenient for the Treaty: and I further expect, that a ſafe conduct be granted, and hoſtages delivered for the ſecurity of thoſe Commiſſioners imployed by me.</p>
+            <closer>
+               <dateline>
+                  <date>April 29. 1646.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>J. BELLASYS.</item>
+                     <item>The Lord <hi>Lexington</hi> (alias <hi>Lackstones</hi>) that was Knight of the Shire for <hi>Nottingham</hi> and revolted.</item>
+                     <item>Mr. <hi>Hen. Bellaſis</hi> (that was Knight for <hi>Yorkeſhire</hi>) the Gover<g ref="char:EOLhyphen"/>nours brother.)</item>
+                     <item>Sir <hi>Bryan Palmes</hi> (ſir <hi>Guy Palmes</hi> his ſonne)</item>
+                     <item>
+                        <hi>Sir Gervis Nev<gap reason="illegible" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>
+                        </hi> (one pittied for being a Cavalier.)</item>
+                     <item>Colonell <hi>Darſy.</hi>
+                     </item>
+                     <item>Major Generall <hi>Eyre</hi> (that threatned ſo often fire and ſword.)</item>
+                     <item>Sir <hi>Simon Fanſhaw.</hi>
+                     </item>
+                     <item>
+                        <hi>Sir Gamaliel Dudley</hi> (who was ſervant to the old Earl of <hi>Clare.</hi>)</item>
+                     <item>Colonell <hi>Gilby</hi> (who was Major to Sir <hi>Iohn Digby.</hi>)</item>
+                     <item>Colonell <hi>Atkins.</hi> Doctor <hi>Marſh</hi> (Deane of <hi>Tork.</hi>)</item>
+                     <item>Mr. <hi>Stand<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ſh</hi> (Alderman of <hi>Newark.</hi>)</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="5" facs="tcp:159675:3"/>
+            <!-- PDF PAGE 31 -->
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Conceive that you deſire an accompt from me where the King is, which I am doubtable poſſibly to tell you; he went out of <hi>Oxford</hi> on Monday morning laſt at the Eaſt Gate with <hi>Aſhburnham,</hi> and a Prieſt that is well acquainted with the North Country; yet ſome will have it, That he is at <hi>Worceſter;</hi> others, That he was traced 40 miles North-ward; but for ought I know, he is with at <hi>London:</hi> they have counterfeited the Generall Sir <hi>Thomas Fairfax</hi> his Seale, (as well as his hand) in <hi>Oxford,</hi> and make Paſſes therewith. The Forces of this Garriſon of <hi>Abingdon,</hi> have fallen on a partie of the <hi>Oxford</hi> Forces, taken 70 and odde priſoners, the Generall haſtens his deſignes againſt <hi>Oxford,</hi> and intends to view the place to mor<g ref="char:EOLhyphen"/>row God willing. This in haſte, I reſt</p>
+            <closer>
+               <dateline>Abingdon <date>the 30 of April, 1646.</date>
+               </dateline>
+               <signed>Your Servant <hi>N. T.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <opener>
+               <salute>Kind Sir,</salute>
+            </opener>
+            <p>THe Lord hath now brought us before the chiefe and grand Garriſon of the Enemies: <hi>Oxford</hi> was with the General faced yeſterday within musket ſhot, but the Enemie within are very ſame; and in all our skirmiſhes, betweene our horſe and them we had but three horſes ſhot, moſt of their foot walke about their Workes in a drooping poſture, with their Armes behind them, and with their hands in their pockers. I hope in a ſhort time, through Gods bleſſing, we ſhall be maſters of this Citie. But at preſent I reſt</p>
+            <closer>
+               <dateline>
+                  <hi>Garſiington</hi> neere <hi>Oxford,</hi> 
+                  <date>May 2. 1646.</date>
+               </dateline>
+               <signed>Your Friend to ſerve you <hi>W. C.</hi>
+               </signed>
+            </closer>
+            <pb n="3" facs="tcp:159675:4"/>
+            <!-- PDF PAGE 32 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="5" facs="tcp:159675:4"/>
+            <!-- PDF PAGE 32 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="articles_of_surrender">
+            <pb n="6" facs="tcp:159675:5"/>
+            <!-- PDF PAGE 33 -->
+            <head>Articles agreed upon for the ſurrender of the Caſtle of <hi>Bridge-North,</hi> the 26 of <hi>April,</hi> 1646. betweene Sir <hi>Robert Howard</hi> Knight of the Bath, Governour, Sir <hi>Vincent Corbet,</hi> Sir <hi>Edward Acton,</hi> and Sir <hi>Francis Oately,</hi> Commiſſioners for the King, &amp; Col. <hi>Andrew Lloyd,</hi> Col. <hi>Robert Clive,</hi> and <hi>Robert Charlton</hi> Eſquire, Commiſſioners for the Parliament.</head>
+            <p n="1">
+               <hi>1</hi> THat all the Commiſſioners, Officers of Horſe, and all Cap<g ref="char:EOLhyphen"/>taines of Foot, ſhall march away to any of His Majeſties Gar<g ref="char:EOLhyphen"/>riſons or Armie within fortie miles, with their Horſes and Armes for themſelves, and each of them to have a ſervant, with his Horſe and Sword, and their wearing Apparell, free quarter for thirty Horſes, and a ſafe Conduct, and not to march leſſe then eight miles a day; And any of the aboveſaid Officers, laying downe their Armes, to repaire to their habitation.</p>
+            <p n="2">
+               <hi>2</hi> That all inferior Officers ſhall have libertie to march with their Sword, and the common Souldiers without Armes, to any of His Ma<g ref="char:EOLhyphen"/>jeſties Garriſons or Armies, within fortie miles, as formerly mentioned, or laying downe their Armes to live at there owne habitations for a fort<g ref="char:EOLhyphen"/>night, and afterwards to take the Nagative Oath if they continue within this Countie, where they intend to reſide, and paſſes accordingly.</p>
+            <p n="3">
+               <hi>3</hi> That all Clergy-men, Towneſ-men and Countrymen, within this Caſtle may have libertie to repaire to their owne habitations, provided they lay downe their Armes, and a fortnights time for their taking the Negative Oath, and not to live within a mile of the Parliaments Gar<g ref="char:EOLhyphen"/>riſons, or otherwiſe, if they ſhall ſo deſire, to march to any of the Kings Garriſons or Armies.</p>
+            <p n="4">
+               <hi>4</hi> That all wounded and ſick priſoners within the Caſtle ſhall have libertie to reſide in the low Towne or elſewere, untill they be fit to tra<g ref="char:EOLunhyphen"/>vell, and to have paſſes to goe home, or to any of the Kings Armies or Garriſons.</p>
+            <p n="5">
+               <pb n="6" facs="tcp:159675:5"/>
+               <!-- PDF PAGE 33 -->
+               <hi>5</hi> That Sir <hi>Robert Howard,</hi> Sir <hi>Vincent Corbet,</hi> Sir <hi>Edward Acton,</hi> and Sir <hi>Francis Oately,</hi> with each of them their Horſes and Armes, and two men a peece, except Sir <hi>Robert Howard,</hi> who is to have foure, with their Horſes and Swords, and their Maſters wearing Apparell. ſhall have libertie to march to their ſeverall habitations, and to continue there for the ſpace of two moneths, in which time, they are to make their election, whether they will goe to make their peace with the Parliament, or goe beyond Seas to any of the Kings Garriſons or Armies, and to have paſſes accordingly, they ingaging themſelves to doe nothing prejudiciall to the Parliament the meane time.</p>
+            <p n="6">
+               <hi>6</hi> That M. <hi>Howard,</hi> M. <hi>Fiſher,</hi> and M. <hi>Gravener,</hi> ſhall march away with their Horſes and Swords, and one man apeece, with their wearing Apparell and Swords, to any place within fortie miles.</p>
+            <p n="7">
+               <hi>7</hi> That Lieut. <hi>Hoſier</hi> and Doctor <hi>Lewin,</hi> ſhall march away with<g ref="char:EOLhyphen"/>out Horſes or Armes to any of the Kings Garriſons, or other place with<g ref="char:EOLhyphen"/>in thirtie miles, provided it be not within this Countie, and paſſes accor<g ref="char:EOLhyphen"/>dingly.</p>
+            <p n="8">
+               <hi>8</hi> That M. <hi>Millard,</hi> Chaplaine to the Garriſon, may have libertie to goe with his Horſe to his houſe at <hi>Reight<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> in this Countie, and to take with him his Manuſcripts, and there to live, taking the Negative Oath within one moneths time, or elſe to march away out of this Coun<g ref="char:EOLhyphen"/>tie with the reſt.</p>
+            <p n="9">
+               <hi>9</hi> That the Clerke of the Commiſſioners may have libertie to march at the reſt of the inferiour Officers and Souldiers, and to have the ſame Conditions, and to take with him all papers concerning the Garriſon, and their wearing Apparell.</p>
+            <p n="10">
+               <hi>10</hi> That the Lady <hi>Oately,</hi> her children, and maid ſervants have libertie, with their wearing Clothes to goe to <hi>Pitchford,</hi> or the <hi>Hay,</hi> and there to live unmoleſted.</p>
+            <p n="11">
+               <hi>11</hi> That all other women and children in the Caſtle, may have liber<g ref="char:EOLhyphen"/>tie to goe to their owne or any of their friends houſes, provided it be not within a mile of any of the Parliaments Garriſons.</p>
+            <p n="12">
+               <hi>12</hi> That all Gentlemen, Offices, and Souldiers within the Caſtle, as well ſtrangers as others, deſiring to goe beyond the ſeas, ſhall have paſſes accordingly, and Letters to the Committees of the ſeverall Coun<g ref="char:EOLhyphen"/>ties, to afford them like conditions, as to the Gentlemen of this County, upon the ſurrender of this Caſtle here granted.</p>
+            <p n="13">
+               <hi>13</hi> That the Chyrurgions belonging to the Caſtle, ſhall march away and have the ſame conditions as the inferior Officers.</p>
+            <pb n="7" facs="tcp:159675:6"/>
+            <!-- PDF PAGE 34 -->
+            <p n="14">
+               <hi>14</hi> That the Gunners and Powder-men, with their mates, may march away as the reſt of the Common Souldiers.</p>
+            <p n="15">
+               <hi>15</hi> That no violence, injury, or incivility ſhall be offered to any that ſhall march out of the Caſtle, but be protected in all things according to the tenor of theſe Articles; and that ſufficient Hoſtages be given on both ſides for the performance of all and every the matters here agreed upon.</p>
+            <p n="16">
+               <hi>16</hi> That the Governour and the reſt of his Officers ſhall doe their utmoſt endeavours to ſecure and preſerve all the Ordnance, Armes, Ammunition, Victuals, proviſions, goods, bedding, and all other acco<g ref="char:EOLhyphen"/>modations neceſſary and belonging to the Caſtle, other then what is a<g ref="char:EOLhyphen"/>lowed to be taken by the aforeſaid Articles, and all thoſe ſafe and un<g ref="char:EOLhyphen"/>spoiled, to bee delivered up, together with the Caſtle (the <hi>27.</hi> of this month of April, <hi>1646.</hi>) unto the Committee, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or whom they ſhall ap<g ref="char:EOLhyphen"/>point, and that theſe Articles be confirmed by the Governour of the Caſtle.</p>
+            <p n="17">
+               <hi>17</hi> That if any Officer or Souldier, who ſhall malitiouſly ſpoile his horſe or Armes, or miſdemeane themſelves on their march, ſuch miſ<g ref="char:EOLhyphen"/>demeanors ſhall not be extended farther then upon the parties offending, and upon them juſtice ſhall be done according to the Diſcipline of Warre.</p>
+            <p n="18">
+               <hi>18</hi> That all the Commiſſion-Officers be certified by the Governour of the Caſtle, and upon this certificate bee allowed to march accor<g ref="char:EOLhyphen"/>dingly.</p>
+            <p n="19">
+               <hi>19</hi> That Maſter <hi>Latham</hi> bee delivered up to the mercy of the Parliament.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <head>Pro Rege.</head>
+                     <item>Rob. Howard.</item>
+                     <item>Vin. Corbet.</item>
+                     <item>Edward Acton.</item>
+                     <item>Francis Oatley.</item>
+                  </list>
+                  <list>
+                     <head>Pro Parliament.</head>
+                     <item>And. Lloyd.</item>
+                     <item>Rob. Clive.</item>
+                     <item>Robert Charlton.</item>
+                  </list>
+               </signed>
+            </closer>
+            <argument>
+               <head>Obſervation.</head>
+               <p>Thoſe that honour God, God will moſt aſſuredly honour, and that is the chiefe reaſon of the many ſucceſſes in <hi>Shropſhire</hi> by the Committee there, who are not onely a praying, but a fighting Committee likewiſe, both which being joyned together, doe moſt undoubtedly make a ſure foundation for theſe and the like ſucceſ<g ref="char:EOLhyphen"/>ſes and victories that God doth and hath ever beene pleaſed to crown them with in all their enterpriſes.</p>
+            </argument>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
